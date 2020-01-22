@@ -1,8 +1,6 @@
-# shrine
+# AGROPACK
 
-A new Flutter project.
+A Project showing various agricultural investment ideas
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Tech
+Built Using FLutter
